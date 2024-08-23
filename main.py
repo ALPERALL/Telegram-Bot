@@ -18,7 +18,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
 # Bot token'ınızı buraya ekleyin
-my_bot_token = 'YOUR_TELEGRAM_BOT_TOKEN'
+my_bot_token = '7196669683:AAH_ID98UlbkP_HUExE6dzmbbUJF1P2twjQ'
 
 # URL ve istek başlıklarını ayarlayın
 CHECK_URL = 'https://checker.visatk.com/ccn1/alien07.php'
